@@ -1,5 +1,5 @@
 
-# EX-2A : ASSIGN COOKIES USING GREEDY ALGORITHM 
+# EX-2A : ASSIGN COOKIES USING GREEDY ALGORITHM  
 
 ## AIM:
 To Write a Java program for the following Constraints.
